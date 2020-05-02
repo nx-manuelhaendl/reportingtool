@@ -1,7 +1,7 @@
 <html>
   <head>
     <!--Load the AJAX API-->
-    <title>MC Reporting Tool</title>
+    <title>MC Reporting Tool Version 0.01</title>
 	<meta name="title" content="example" />
 	<link rel="stylesheet" href="www.example.com/css/css.css" type="text/css" />
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
